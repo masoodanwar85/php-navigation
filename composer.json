@@ -1,0 +1,12 @@
+{
+    "name": "masood/navigation",
+    "description": "Navigation Package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Masood Anwar",
+            "email": "masoodanwar85@gmail.com"
+        }
+    ],
+    "require": {}
+}
